@@ -1,0 +1,47 @@
+.card{
+    opacity: 0.85;
+    margin: 2em;
+    background-color: rgba(0,0,0);
+    color: white;
+}
+
+.btn{
+    margin-left: 0.25em;
+}
+
+.dis{
+    border: 0.5mm solid black;
+    /* border-radius: 50%; */
+}
+
+h3{
+    margin: 0.25em;
+    display: inline;
+}
+
+footer{
+    color: white;
+    background-color: #1f2afeef;
+    margin: 1em;
+    padding: 1em;
+}
+
+body{
+    background-image: url('#');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#features{
+    color: rgb(214, 15, 15);
+}
+
+#instr{
+    color: rgba(214, 15 ,15);
+}
+
+ul{
+    color: rgba(13, 0, 0, 0.907); 
+}

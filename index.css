@@ -1,0 +1,17 @@
+body{
+    /* background-color: aqua; */
+    background-image: url('https://static.toiimg.com/thumb/msid-70942748,imgsize-239313,width-400,resizemode-4/70942748.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.card{
+    opacity: 0.9;
+    background-color: rgba(0, 0, 0);
+    color: rgba(255, 255, 255, 0.836);
+}
+
+/* https://images.unsplash.com/photo-1605470207062-b72b5cbe2a87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDh8fGNvbGxlZ2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 */
+

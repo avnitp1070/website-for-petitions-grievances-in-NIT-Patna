@@ -1,0 +1,15 @@
+body{
+    background: url('https://www.nitp.ac.in/static/8b5f71c427f19c61c668aee51452e9c3/9a128/2021-09-26_700x500.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.card{
+    opacity: 0.85;
+    background-color: rgb(0,0,0);
+    color: white;
+}
+
+/* https://images.unsplash.com/photo-1519452575417-564c1401ecc0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8Y29sbGVnZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 */
